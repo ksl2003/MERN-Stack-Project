@@ -19,10 +19,8 @@ Built with React JS and Bootstrap 5
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Buy Me A Coffee](#buy-me-a-coffee)
 - [What's included](#whats-included)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 ## Quick start
 
@@ -33,10 +31,6 @@ Several quick start options are available:
 - Install with [npm](https://www.npmjs.com/): `npm install`
 - Runs the app in the development mode `npm start`
 - Builds the app for production to the `build` folder `npm run build`
-
-## Buy Me A Coffee
-
-[![BuyMeACoffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/bhaumik)
 
 ## What's included
 
@@ -69,7 +63,3 @@ Several quick start options are available:
 </a>
 <a href="https://fontawesome.com/" title="Font Awesome" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Font_Awesome_logomark_blue.svg" alt="Font Awesome Logo" width="48" height="48">
 </a>
-  
-## Copyright and license
-
-Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
